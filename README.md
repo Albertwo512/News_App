@@ -20,7 +20,7 @@ java -jar target/Demo-0.0.1-SNAPSHOT.jar
 
 ## 🌐 Demo en vivo
 
-http://TU_IP_PUBLICA:8080
+http://3.95.15.177:8080
 
 ## 👨‍💻 Autor
 
